@@ -4,3 +4,4 @@ y=2
 
 println(x+y+z)
 f(x)=x^2
+u(x)=x^4
